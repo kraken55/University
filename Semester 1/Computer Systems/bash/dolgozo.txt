@@ -1,0 +1,8 @@
+Gipsz Jakab,pultos,éjszakás,4 órás ügyelet
+Csupa Fül,mesterszakács,menü tervezés,konyha irányítás,főzés
+Bujtor Géza,halász,halászat,halbelezés
+Johnny Locke,filozófus,gondolkodás,elmélkedés,halászat
+Old Man,halász,halászat,halbelezés,csónakázás
+Ötvös Csöpi,nyomozó,nyomozás,rántott sertésborda
+Kardos Doktor,doktor,műtés,oltás,fül-orr-gégészet
+Cserepes Virág,pultos,éjszakás,nappalos

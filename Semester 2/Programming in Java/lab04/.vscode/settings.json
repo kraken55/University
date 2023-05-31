@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "music/junit5all.jar",
+        "music/checkthat.jar",
+        "junit5all.jar",
+        "checkthat.jar"
+    ]
+}

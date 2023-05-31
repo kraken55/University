@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Store/Store/bin/Debug/net7.0/Store
+/media/kraken55/data/ELTE/OEP/Store/Store/bin/Debug/net7.0/Store.deps.json
+/media/kraken55/data/ELTE/OEP/Store/Store/bin/Debug/net7.0/Store.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Store/Store/bin/Debug/net7.0/Store.dll
+/media/kraken55/data/ELTE/OEP/Store/Store/bin/Debug/net7.0/Store.pdb
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.dll
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/refint/Store.dll
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.pdb
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/Store.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Store/Store/obj/Debug/net7.0/ref/Store.dll

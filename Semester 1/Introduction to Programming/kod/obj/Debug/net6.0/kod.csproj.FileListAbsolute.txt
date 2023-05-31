@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/kod
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/kod.deps.json
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/kod.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/kod.dll
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/ref/kod.dll
+/media/kraken55/data/ELTE/progalap/kod/bin/Debug/net6.0/kod.pdb
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.dll
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/ref/kod.dll
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.pdb
+/media/kraken55/data/ELTE/progalap/kod/obj/Debug/net6.0/kod.genruntimeconfig.cache

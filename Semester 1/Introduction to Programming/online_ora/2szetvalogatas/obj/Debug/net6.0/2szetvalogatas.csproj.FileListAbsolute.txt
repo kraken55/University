@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/2szetvalogatas
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/2szetvalogatas.deps.json
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/2szetvalogatas.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/2szetvalogatas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/ref/2szetvalogatas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/bin/Debug/net6.0/2szetvalogatas.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/ref/2szetvalogatas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogatas/obj/Debug/net6.0/2szetvalogatas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/szaloncukor
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/szaloncukor.deps.json
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/szaloncukor.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/szaloncukor.dll
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/ref/szaloncukor.dll
+/media/kraken55/data/ELTE/progalap/szaloncukor/bin/Debug/net6.0/szaloncukor.pdb
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.dll
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/ref/szaloncukor.dll
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.pdb
+/media/kraken55/data/ELTE/progalap/szaloncukor/obj/Debug/net6.0/szaloncukor.genruntimeconfig.cache

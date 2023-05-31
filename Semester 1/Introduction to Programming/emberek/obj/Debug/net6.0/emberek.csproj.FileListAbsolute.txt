@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/emberek
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/emberek.deps.json
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/emberek.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/emberek.dll
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/ref/emberek.dll
+/media/kraken55/data/ELTE/progalap/emberek/bin/Debug/net6.0/emberek.pdb
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.dll
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/ref/emberek.dll
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.pdb
+/media/kraken55/data/ELTE/progalap/emberek/obj/Debug/net6.0/emberek.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/bin/Debug/net7.0/AllEven
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/bin/Debug/net7.0/AllEven.deps.json
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/bin/Debug/net7.0/AllEven.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/bin/Debug/net7.0/AllEven.dll
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/bin/Debug/net7.0/AllEven.pdb
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.dll
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/refint/AllEven.dll
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.pdb
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/AllEven.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Cactus/AllEven/obj/Debug/net7.0/ref/AllEven.dll

@@ -1,0 +1,34 @@
+static void sortByAvgTemp()
+        {
+            for (int i = 0; i < nLocations - 1; i++)
+            {
+                int maxInd = i;
+                for (int j = i + 1; j < nLocations; j++)
+                {
+                    if (entries[maxInd].averageTemp == entries[j].averageTemp && entries[maxInd].locationIndex > entries[j].locationIndex)
+                    {
+                        maxInd = j;
+                    }
+                    else if (entries[maxInd].averageTemp < entries[j].averageTemp)
+                    {
+                        maxInd = j;
+                    }
+                }
+                Entry temp = entries[i];
+                entries[i] = entries[maxInd];
+                entries[maxInd] = temp;
+            }
+        }
+
+        static void sortByAvgTempMSORT(int left, int right)
+        {
+            if (left < right)
+            {
+                int middle = left + (right - left) / 2;
+
+                sortByAvgTempMSORT(left, middle);
+                sortByAvgTempMSORT(middle + 1, right);
+
+                MergeArray(left, middle, right);
+            }
+        }

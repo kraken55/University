@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/nyelvorak/bin/Debug/net7.0/nyelvorak
+/media/kraken55/data/ELTE/progalap/nyelvorak/bin/Debug/net7.0/nyelvorak.deps.json
+/media/kraken55/data/ELTE/progalap/nyelvorak/bin/Debug/net7.0/nyelvorak.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/nyelvorak/bin/Debug/net7.0/nyelvorak.dll
+/media/kraken55/data/ELTE/progalap/nyelvorak/bin/Debug/net7.0/nyelvorak.pdb
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.dll
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/refint/nyelvorak.dll
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.pdb
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/nyelvorak.genruntimeconfig.cache
+/media/kraken55/data/ELTE/progalap/nyelvorak/obj/Debug/net7.0/ref/nyelvorak.dll

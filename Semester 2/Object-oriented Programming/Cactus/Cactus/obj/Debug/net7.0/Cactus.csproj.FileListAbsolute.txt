@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/bin/Debug/net7.0/Cactus
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/bin/Debug/net7.0/Cactus.deps.json
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/bin/Debug/net7.0/Cactus.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/bin/Debug/net7.0/Cactus.dll
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/bin/Debug/net7.0/Cactus.pdb
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.dll
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/refint/Cactus.dll
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.pdb
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/Cactus.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Cactus/Cactus/obj/Debug/net7.0/ref/Cactus.dll

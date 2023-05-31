@@ -1,0 +1,17 @@
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/Frequency
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/Frequency.deps.json
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/Frequency.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/Frequency.dll
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/Frequency.pdb
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/bin/Debug/net7.0/TextFile.dll
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.csproj.CopyComplete
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.dll
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/refint/Frequency.dll
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.pdb
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/Frequency.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Frequency/Frequency/obj/Debug/net7.0/ref/Frequency.dll

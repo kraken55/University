@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Fish/bin/Debug/net7.0/Fish
+/media/kraken55/data/ELTE/OEP/Fish/bin/Debug/net7.0/Fish.deps.json
+/media/kraken55/data/ELTE/OEP/Fish/bin/Debug/net7.0/Fish.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Fish/bin/Debug/net7.0/Fish.dll
+/media/kraken55/data/ELTE/OEP/Fish/bin/Debug/net7.0/Fish.pdb
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.dll
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/refint/Fish.dll
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.pdb
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/Fish.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Fish/obj/Debug/net7.0/ref/Fish.dll

@@ -1,0 +1,27 @@
+{-# LANGUAGE OverloadedStrings #-}
+
+import CodeWorld
+
+botCircle, topCircle, midCircle :: Color -> Picture
+botCircle c = colored c (translated 0 (-2) (solidCircle 1))
+topCircle c = colored c (translated 0 2  (solidCircle 1))
+midCircle c = colored c (translated 0 0 (solidCircle 1))
+
+frame :: Picture
+frame = rectangle 2.5 6.5
+
+trafficLight :: Int -> Picture
+trafficLight 0 = botCircle green & midCircle black & topCircle black & frame
+trafficLight 1 = botCircle black & midCircle yellow & topCircle black   & frame
+trafficLight 2 = botCircle black & midCircle black & topCircle red   & frame
+trafficLight 3 = botCircle black & midCircle yellow & topCircle red   & frame
+
+trafficController :: Double -> Picture
+trafficController t
+  | round(t/4) `mod` 10 >= 0 &&  = trafficLight 0
+  | round(t/4) `mod` 4 == 1 = trafficLight 1
+  | round(t/4) `mod` 4 == 2 = trafficLight 2
+  | round(t/4) `mod` 4 == 3 = trafficLight 3
+                                                  
+main :: IO ()
+main = animationOf trafficController

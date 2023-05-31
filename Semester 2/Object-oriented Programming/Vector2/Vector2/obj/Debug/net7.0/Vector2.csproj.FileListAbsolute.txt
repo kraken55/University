@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Vector2/bin/Debug/net7.0/Vector2
+/media/kraken55/data/ELTE/OEP/Vector2/bin/Debug/net7.0/Vector2.deps.json
+/media/kraken55/data/ELTE/OEP/Vector2/bin/Debug/net7.0/Vector2.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Vector2/bin/Debug/net7.0/Vector2.dll
+/media/kraken55/data/ELTE/OEP/Vector2/bin/Debug/net7.0/Vector2.pdb
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.dll
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/refint/Vector2.dll
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.pdb
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/Vector2.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Vector2/obj/Debug/net7.0/ref/Vector2.dll

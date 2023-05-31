@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depression", "Depression\Depression.csproj", "{57C67184-FF2B-4C71-B26E-A669FC7DB33E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DepressionTest", "DepressionTest", "{E8AC7E28-74E6-46E1-82FC-E3054F57CD8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepressionTest", "DepressionTest\DepressionTest\DepressionTest.csproj", "{44B5A278-4464-4A8A-BFCB-20054BCACE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C67184-FF2B-4C71-B26E-A669FC7DB33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C67184-FF2B-4C71-B26E-A669FC7DB33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C67184-FF2B-4C71-B26E-A669FC7DB33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C67184-FF2B-4C71-B26E-A669FC7DB33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B5A278-4464-4A8A-BFCB-20054BCACE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B5A278-4464-4A8A-BFCB-20054BCACE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B5A278-4464-4A8A-BFCB-20054BCACE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B5A278-4464-4A8A-BFCB-20054BCACE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44B5A278-4464-4A8A-BFCB-20054BCACE9B} = {E8AC7E28-74E6-46E1-82FC-E3054F57CD8F}
+	EndGlobalSection
+EndGlobal

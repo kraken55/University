@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/komplex/bin/Debug/net7.0/komplex
+/media/kraken55/data/ELTE/progalap/komplex/bin/Debug/net7.0/komplex.deps.json
+/media/kraken55/data/ELTE/progalap/komplex/bin/Debug/net7.0/komplex.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/komplex/bin/Debug/net7.0/komplex.dll
+/media/kraken55/data/ELTE/progalap/komplex/bin/Debug/net7.0/komplex.pdb
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.dll
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/refint/komplex.dll
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.pdb
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/komplex.genruntimeconfig.cache
+/media/kraken55/data/ELTE/progalap/komplex/obj/Debug/net7.0/ref/komplex.dll

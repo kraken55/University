@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/bin/Debug/net7.0/FileSys
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/bin/Debug/net7.0/FileSys.deps.json
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/bin/Debug/net7.0/FileSys.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/bin/Debug/net7.0/FileSys.dll
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/bin/Debug/net7.0/FileSys.pdb
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.dll
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/refint/FileSys.dll
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.pdb
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/FileSys.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/FileSys/FileSys/obj/Debug/net7.0/ref/FileSys.dll

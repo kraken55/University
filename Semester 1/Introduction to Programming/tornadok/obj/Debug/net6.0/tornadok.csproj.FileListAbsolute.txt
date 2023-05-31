@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/tornadok
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/tornadok.deps.json
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/tornadok.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/tornadok.dll
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/ref/tornadok.dll
+/media/kraken55/data/ELTE/progalap/tornadok/bin/Debug/net6.0/tornadok.pdb
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.dll
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/ref/tornadok.dll
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.pdb
+/media/kraken55/data/ELTE/progalap/tornadok/obj/Debug/net6.0/tornadok.genruntimeconfig.cache

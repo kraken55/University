@@ -1,0 +1,17 @@
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/Depression
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/Depression.deps.json
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/Depression.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/Depression.dll
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/Depression.pdb
+/media/kraken55/data/ELTE/OEP/Depression/Depression/bin/Debug/net7.0/TextFile.dll
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.csproj.CopyComplete
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.dll
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/refint/Depression.dll
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.pdb
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/Depression.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Depression/Depression/obj/Debug/net7.0/ref/Depression.dll

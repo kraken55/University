@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/bin/Debug/net7.0/FishingContest
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/bin/Debug/net7.0/FishingContest.deps.json
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/bin/Debug/net7.0/FishingContest.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/bin/Debug/net7.0/FishingContest.dll
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/bin/Debug/net7.0/FishingContest.pdb
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.dll
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/refint/FishingContest.dll
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.pdb
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/FishingContest.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/FishingContest/FishingContest/obj/Debug/net7.0/ref/FishingContest.dll

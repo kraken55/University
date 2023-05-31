@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/progalap
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/progalap.deps.json
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/progalap.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/progalap.dll
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/ref/progalap.dll
+/media/kraken55/data/ELTE/progalap/bin/Debug/net6.0/progalap.pdb
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.dll
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/ref/progalap.dll
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.pdb
+/media/kraken55/data/ELTE/progalap/obj/Debug/net6.0/progalap.genruntimeconfig.cache

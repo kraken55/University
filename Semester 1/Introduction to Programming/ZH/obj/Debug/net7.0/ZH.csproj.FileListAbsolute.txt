@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/ZH/bin/Debug/net7.0/ZH
+/media/kraken55/data/ELTE/progalap/ZH/bin/Debug/net7.0/ZH.deps.json
+/media/kraken55/data/ELTE/progalap/ZH/bin/Debug/net7.0/ZH.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/ZH/bin/Debug/net7.0/ZH.dll
+/media/kraken55/data/ELTE/progalap/ZH/bin/Debug/net7.0/ZH.pdb
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.dll
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/refint/ZH.dll
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.pdb
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ZH.genruntimeconfig.cache
+/media/kraken55/data/ELTE/progalap/ZH/obj/Debug/net7.0/ref/ZH.dll

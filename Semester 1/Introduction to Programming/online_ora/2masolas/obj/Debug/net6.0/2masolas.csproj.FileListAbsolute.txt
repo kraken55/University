@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/2masolas
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/2masolas.deps.json
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/2masolas.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/2masolas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/ref/2masolas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/bin/Debug/net6.0/2masolas.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/ref/2masolas.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2masolas/obj/Debug/net6.0/2masolas.genruntimeconfig.cache

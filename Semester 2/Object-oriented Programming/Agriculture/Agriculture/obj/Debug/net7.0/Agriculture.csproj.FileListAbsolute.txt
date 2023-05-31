@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/bin/Debug/net7.0/Agriculture
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/bin/Debug/net7.0/Agriculture.deps.json
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/bin/Debug/net7.0/Agriculture.runtimeconfig.json
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/bin/Debug/net7.0/Agriculture.dll
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/bin/Debug/net7.0/Agriculture.pdb
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.AssemblyInfo.cs
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.dll
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/refint/Agriculture.dll
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.pdb
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/Agriculture.genruntimeconfig.cache
+/media/kraken55/data/ELTE/OEP/Agriculture/Agriculture/obj/Debug/net7.0/ref/Agriculture.dll

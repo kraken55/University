@@ -1,0 +1,6 @@
+Fűzfa fütyülő kft,1111 Budapest Ökör utca 6,5,3
+Skoda,8072 Zalaegerszeg Labda utca 2,3,6
+Halak vannak a tóban,3012 Szeged Hal utca 8,101,0
+Mélygarázsos hajléktalan,8071 Rácgalamb Galamb út 40,101,11
+Tóvárosi tópart,5600 Tufuly Pulyka körűt 42-45,0,1000
+Tihamér terelő tigris,4000 Püvető Sülükefe utca 50,0,0

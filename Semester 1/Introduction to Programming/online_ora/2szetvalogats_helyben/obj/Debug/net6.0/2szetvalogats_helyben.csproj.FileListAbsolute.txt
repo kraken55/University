@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/2szetvalogats_helyben
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/2szetvalogats_helyben.deps.json
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/2szetvalogats_helyben.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/2szetvalogats_helyben.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/ref/2szetvalogats_helyben.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/bin/Debug/net6.0/2szetvalogats_helyben.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/ref/2szetvalogats_helyben.dll
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.pdb
+/media/kraken55/data/ELTE/progalap/online_ora/2szetvalogats_helyben/obj/Debug/net6.0/2szetvalogats_helyben.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.csproj.AssemblyReference.cache
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.GeneratedMSBuildEditorConfig.editorconfig
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.AssemblyInfoInputs.cache
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.AssemblyInfo.cs
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.csproj.CoreCompileInputs.cache
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/beadando3
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/beadando3.deps.json
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/beadando3.runtimeconfig.json
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/beadando3.dll
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/ref/beadando3.dll
+/media/kraken55/data/ELTE/progalap/beadando3/bin/Debug/net6.0/beadando3.pdb
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.dll
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/ref/beadando3.dll
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.pdb
+/media/kraken55/data/ELTE/progalap/beadando3/obj/Debug/net6.0/beadando3.genruntimeconfig.cache

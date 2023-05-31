@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cactus", "Cactus\Cactus.csproj", "{3AF65A89-4916-4650-B3BE-7513AFDD2202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllEven", "AllEven\AllEven.csproj", "{0CA8C7D0-43CF-4024-8EA7-F6A9BB7584AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF65A89-4916-4650-B3BE-7513AFDD2202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF65A89-4916-4650-B3BE-7513AFDD2202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF65A89-4916-4650-B3BE-7513AFDD2202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF65A89-4916-4650-B3BE-7513AFDD2202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA8C7D0-43CF-4024-8EA7-F6A9BB7584AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA8C7D0-43CF-4024-8EA7-F6A9BB7584AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA8C7D0-43CF-4024-8EA7-F6A9BB7584AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA8C7D0-43CF-4024-8EA7-F6A9BB7584AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
